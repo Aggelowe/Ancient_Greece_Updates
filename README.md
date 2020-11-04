@@ -2,7 +2,7 @@
 ### **VERSION: 0.1.0 (OLDER VERSIONS CAN BE FOUND [HERE](https://github.com/Aggelowe/Ancient_Greece_Updates/branches "HERE"))**
 ##### RELEASE DATE: 2020-05-29 10:28:44 Friday
 ------------
-### THIS MOD IS OFFICIALLY MDE BY THE [ZAGLIVERIAN WARRIORS](http://discord.gg/uJgKBay "ZAGLIVERIAN WARRIORS")
+### THIS MOD IS OFFICIALLY MADE BY THE [ZAGLIVERIAN WARRIORS](http://discord.gg/uJgKBay "ZAGLIVERIAN WARRIORS")
 ------------
 ### CREDITS:
 -  AGGELOWE
